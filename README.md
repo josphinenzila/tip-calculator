@@ -1,6 +1,8 @@
 # Tip Calculator using plain javascript
 
-#### This is a simple web based application that takes in the bill amount, the tax percentange and the number of people sharing the bill and calculates the amount payable by each person
+#### Description
+
+This is a simple web based application that takes in the bill amount, the tax percentange and the number of people sharing the bill and calculates the amount payable by each person.
 
 #### By Josphine Nzila (Software Developer)
 
