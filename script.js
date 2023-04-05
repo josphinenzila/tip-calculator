@@ -48,7 +48,7 @@ const calculateBill = () => {
   perPersonTotalDiv.innerText = `$${totalBillPerPerson.toFixed(2)}`;
 };
 
-// ** Splits the bill between more people **
+// ** Splits the bill between more people by 1**
 const increasePeople = () => {
   // increment the amount of people
   people++;
