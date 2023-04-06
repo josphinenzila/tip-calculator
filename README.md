@@ -13,5 +13,3 @@ This is a simple web based application that takes in the bill amount, the tax pe
 
 - To run this project, simply clone the git repo and open the index.html file on a browser
 - The link to the project is https://tip-calculator.josphinenzila.repl.co
-
-#### By Josphine Nzila (Software Developer)
